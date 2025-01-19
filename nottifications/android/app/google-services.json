@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "68315441713",
+    "project_id": "misproject-7745b",
+    "storage_bucket": "misproject-7745b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68315441713:android:25ad2ae35cf214614c0310",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHlXJyyeQtnpB4YtSI0luorKmeMginaKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68315441713:android:6f9d0759b6cb36784c0310",
+        "android_client_info": {
+          "package_name": "jokes.daily.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHlXJyyeQtnpB4YtSI0luorKmeMginaKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
